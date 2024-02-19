@@ -1,4 +1,4 @@
-### Hi there 👋
+### Currently learning how machine's learn. 
 
 <!--
 **ashwin2912/ashwin2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
