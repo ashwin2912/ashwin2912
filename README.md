@@ -1,4 +1,4 @@
-### Currently learning how machine's learn. 
+### Building AI solutions that prioritize people, purpose, and positive impact. 
 
 <!--
 **ashwin2912/ashwin2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
